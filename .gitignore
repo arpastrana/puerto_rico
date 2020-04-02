@@ -109,6 +109,7 @@ ENV/
 docs/__build/
 docs/api/generated/
 
+*.3dm
 *.3dmbak
 *.rhl
 
